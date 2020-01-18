@@ -1,0 +1,15 @@
+{
+  "name": "hack_az_module_testing",
+  "collaborators": [
+    "Heroicos_HM"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "hack_az_module_testing_bg.wasm",
+    "hack_az_module_testing.js",
+    "hack_az_module_testing.d.ts"
+  ],
+  "module": "hack_az_module_testing.js",
+  "types": "hack_az_module_testing.d.ts",
+  "sideEffects": "false"
+}
